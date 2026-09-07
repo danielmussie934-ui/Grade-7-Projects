@@ -1,2 +1,2 @@
 # Grade-7-Projects
-I really tried, I failed,  
+ I know the code may look horrendous but enjoy these dumb projects!
