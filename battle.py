@@ -12,7 +12,7 @@ def getships():
    player_grid[battleship[0]][battleship[1]] = 1
    player_grid[battleship[0]][battleship[1]+1] = 1
    player_grid[battleship[0]][battleship[1]+2] = 1
-   cpu_batttleship =  [random.randint(0, 20), random.randint(0, 20)]
+   cpu_battleship =  [random.randint(0, 20), random.randint(0, 20)]
    # Set up cpu battleship on the grid  
    cpu_grid[cpu_batttleship[0]][cpu_batttleship[1]] = 1
    cpu_grid[cpu_batttleship[0]][cpu_batttleship[1]+1] = 1
