@@ -5,5 +5,7 @@ These projects are to show you my gain and progress of my basic knowledge of com
 Most of the projects work but not in an intended way. I hope to get better as my math knowledge gets better!
 The rest of this file is explaining the other file in this repository.
 
-(Battle.Py):
+(Battle.Py): I did not understand how to make the bullet move across the screen for both player1 and player2.
+
+
 
